@@ -16,7 +16,7 @@ class App extends React.Component {
       news : newsData   
      }
   }
-
+  // https://newsapi.org/v2/top-headlines?country=us&apiKey=d5f9ebb18b36426884821125240d993b API for news
   
 
 
