@@ -1,38 +1,201 @@
-[
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
     {
-        "id":1,
-        "title":"New ES6 upgrade available $",
-        "feed":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto"
+    "source": {
+    "id": null,
+    "name": "CNBCTV18"
+    },
+    "author": null,
+    "title": "Stock Market Live: Sensex falls 350 points, Nifty below 13,050; bank, financial stocks drag - CNBCTV18",
+    "description": "Stock Market Live: Indian indices were trading lower on Wednesday dragged by losses in financial and bank stocks. Broader markets, however, outperformed benchmarks. The Nifty Bank and Nifty Fin Services shed over 1 percent each. However, Metal and Realty rall…",
+    "url": "https://www.cnbctv18.com/market/stocks/stock-market-live-sgx-nifty-indicates-a-subdued-start-for-the-indian-market-stock-market-sensex-nifty-7617411.htm/",
+    "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2019/08/bse-768x559.jpg",
+    "publishedAt": "2020-12-02T08:14:59Z",
+    "content": null
     },
     {
-        "id":2,
-        "title":"The importance of & REACT in the development",
-        "feed":"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident"
+    "source": {
+    "id": null,
+    "name": "BusinessLine"
+    },
+    "author": "Vinson Kurian",
+    "title": "Weather: Orange alert for TN, Kerala as Cyclone Burevi’ lurks closer - BusinessLine",
+    "description": "May graze Ramanathapuram on way from Lanka",
+    "url": "https://www.thehindubusinessline.com/economy/agri-business/cyclone-burevi-to-strike-sri-lanka-coast-tonight/article33227214.ece",
+    "urlToImage": "https://www.thehindubusinessline.com/incoming/3cfzux/article33227809.ece/ALTERNATES/LANDSCAPE_615/WeatherDec2am2-3PNG",
+    "publishedAt": "2020-12-02T08:02:13Z",
+    "content": "Cyclone Burevi lies centered over South-West Bay of Bengal about 200 km East of Trincomalee (Sri Lanka); and 420 km East-South-East of Pamban (India); and 600 km nearly East-North-East of Kanniyakuma… [+6486 chars]"
     },
     {
-        "id":3,
-        "title":"REACT developers going on strike",
-        "feed":"It is propaganda: India on social media posts alleging harassment of Muslims"
+    "source": {
+    "id": null,
+    "name": "The Indian Express"
+    },
+    "author": "Express Web Desk",
+    "title": "On World AIDS Day, Mizoram launches ‘Love Brigade’ to fight the ‘other pandemic’ - The Indian Express",
+    "description": "“The back pocket of the front seat will have a little flap — that is where we will keep the condoms, known as 'love condoms'. Anyone can pick it up,” said Hrahsel, adding that the Love Brigade will also be trained in HIV/AIDS counselling and give out the deta…",
+    "url": "https://indianexpress.com/article/north-east-india/mizoram/on-world-aids-day-mizoram-launches-love-brigade-to-fight-the-other-pandemic-7076614/",
+    "urlToImage": "https://images.indianexpress.com/2020/12/f44afd93-c964-4a8c-b539-c3d0265eb482.jpg",
+    "publishedAt": "2020-12-02T07:51:08Z",
+    "content": "The love brigade drivers will don red jackets so passengers can distinguish them from other drivers.Taxi drivers in Aizawl will now double up as HIV/AIDS counsellors distributing free condoms and pam… [+2756 chars]"
     },
     {
-        "id":4,
-        "title":"Say what again. I dare you,...x",
-        "feed":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+    "source": {
+    "id": null,
+    "name": "The Indian Express"
+    },
+    "author": "Express Web Desk",
+    "title": "Coronavirus LIVE Updates: People without mask will have to do community service at covid care centre, says Gujarat HC - The Indian Express",
+    "description": "Coronavirus India News Live Updates, Covid-19 cases Latest News, Covid-19 Vaccine Today News: India reported 36,604 new cases of coronavirus infections on Tuesday, taking its overall tally to about 95 lakhs. The active cases have fallen to 4.28 lakh.",
+    "url": "https://indianexpress.com/article/india/coronavirus-india-live-updates-cases-deaths-vaccines-sii-chennai-mumbai-delhi-pune-sero-survey-7076169/",
+    "urlToImage": "https://images.indianexpress.com/2020/11/covid-2-14.jpg",
+    "publishedAt": "2020-12-02T07:39:03Z",
+    "content": "At Serum Institute of India on Monday. (Photo: Reuters) While chances of an affordable Covid-19 vaccine being available by February next year may seem high, 59 per cent of over 8,900 respondents to … [+2535 chars]"
     },
     {
-        "id":5,
-        "title":"REACT developers going on strike",
-        "feed":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+    "source": {
+    "id": null,
+    "name": "NDTV News"
+    },
+    "author": null,
+    "title": "UK To Vaccinate People Against Covid From Next Week, Clears Pfizer Shot - NDTV",
+    "description": "Britain on Wednesday became the first country in the world to approve the Pfizer-BioNTech COVID-19 vaccine for use and said that it will be rolled out from early next week.",
+    "url": "https://www.ndtv.com/world-news/uk-approves-pfizer-biontech-covid-19-vaccine-for-rollout-from-next-week-first-in-the-world-to-do-so-news-agency-reuters-2333040",
+    "urlToImage": "https://c.ndtvimg.com/2020-12/lijf9oqs_pfizer-reuters-650_625x300_02_December_20.jpg",
+    "publishedAt": "2020-12-02T07:21:04Z",
+    "content": "Pfizer-BioNTech Vaccine: The vaccine will be made available across the UK from next week, the UK said. Highlights <ul><li>UK has approved the Pfizer-BioNTech COVID-19 vaccine for use </li><li>UK v… [+2380 chars]"
     },
     {
-        "id":6,
-        "title":"REACT developers going on strike",
-        "feed":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+    "source": {
+    "id": null,
+    "name": "The Indian Express"
+    },
+    "author": "Harish Damodaran",
+    "title": "Talks with Centre: Wheat sowing over, farmers have free time to continue agitation - The Indian Express",
+    "description": "The is something the government may not have fully anticipated. The timing of the capital siege and ability to stay put for at least the next few weeks could well work to the protesters’ advantage.",
+    "url": "https://indianexpress.com/article/explained/punjab-farmers-protest-farm-laws-rabi-sowing-7075968/",
+    "urlToImage": "https://images.indianexpress.com/2020/12/farmers-protest-4.jpg",
+    "publishedAt": "2020-12-02T07:16:37Z",
+    "content": "Farmers at Singhu border on Tuesday, December 1, 2020. (Express Photo: Gajendra Yadav)Parties in most negotiations tend to start by taking maximalist positions. It isnt any different in the current s… [+4655 chars]"
     },
     {
-        "id":7,
-        "title":"REACT developers going on strike",
-        "feed":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+    "source": {
+    "id": null,
+    "name": "Hindustan Times"
+    },
+    "author": "hindustantimes.com| Edited by: Harshit Sabarwal",
+    "title": "On National Pollution Control Day, Satyendar Jain urges people to make Delhi pollution free - Hindustan Times",
+    "description": "The ‘National Pollution Control Day’ is observed in memory of those who died in the 1984 Bhopal gas tragedy, which occurred on the intervening night of December 2 and 3 in 1984 at the Union Carbide India Limited (UCIL) plant in the Madhya Pradesh capital.",
+    "url": "https://www.hindustantimes.com/delhi-news/let-s-vow-to-make-delhi-pollution-free-satyendar-jain-tweets-on-national-pollution-control-day/story-jMaNX8oOhLABxWRvQMR7dO.html",
+    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/12/02/Pictures/delhi-health-minister-satyendar-jain-speaks-media_f759891c-3460-11eb-a095-f4dd1fe9b7fb.jpg",
+    "publishedAt": "2020-12-02T05:50:53Z",
+    "content": "Delhi health minister Satyendar Jain said on Wednesday urged people of the national capital to take a vow to not only reduce air pollution, but bring down water, land and noise pollution as well in o… [+2049 chars]"
+    },
+    {
+    "source": {
+    "id": "the-hindu",
+    "name": "The Hindu"
+    },
+    "author": "PTI",
+    "title": "Virat Kohli beats Tendulkar's record to become fastest cricketer to score 12,000 ODI runs - The Hindu",
+    "description": "Virat Kohli reached the milestone during the third and final match against Australia in Canberra",
+    "url": "https://www.thehindu.com/sport/cricket/virat-kohli-becomes-fastest-cricketer-to-score-12000-odi-runs-beats-sachin-tendulkars-record/article33227842.ece",
+    "urlToImage": "https://www.thehindu.com/sport/cricket/s7bzm0/article33227841.ece/ALTERNATES/LANDSCAPE_615/VBK-KOHLI-AP-1",
+    "publishedAt": "2020-12-02T05:49:52Z",
+    "content": "India captain Virat Kohli on December 2 became the fastest cricketer to score 12,000 ODI runs, breaking a record held by legendary compatriot Sachin Tendulkar. Kohli reached the milestone during the… [+602 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hindustan Times"
+    },
+    "author": "HT Tech",
+    "title": "Vivo V20 Pro 5G to launch in India today: Specs, expected price and availability details - HT Tech",
+    "description": "So far, we know that the design on the Vivo V20 Pro 5G launching here is going to be the same as the global version that was launched a few months ago.",
+    "url": "https://tech.hindustantimes.com/mobile/news/vivo-v20-pro-5g-to-launch-in-india-today-specs-expected-price-and-availability-details-71606887321162.html",
+    "urlToImage": "https://images.hindustantimes.com/tech/img/2020/12/02/600x338/Vivo_1606400730930_1606400755370_1606887404273.jpg",
+    "publishedAt": "2020-12-02T05:35:20Z",
+    "content": "Vivo has created enough buzz around its V20 Pro and now it seems all set to launch the handset officially soon in India at 12PM IST. Some rumours and leaks on the price have already been out there, g… [+1674 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Indian Express"
+    },
+    "author": "IE Online",
+    "title": "8 beautiful photos from Aditya Narayan and Shweta Agarwal’s wedding - The Indian Express",
+    "description": "Aditya Narayan and Shweta Agarwal's wedding: Aditya Narayan and his longtime girlfriend Shweta Agarwal's wedding was attended only by family members and close friends because of COVID-19 restrictions.",
+    "url": "https://indianexpress.com/photos/entertainment-gallery/aditya-narayan-shweta-agarwal-wedding-photos-7076258/",
+    "urlToImage": "https://images.indianexpress.com/2020/12/Aditya-Narayan-and-Shweta-Agarwal-wedding-photos-660.jpg",
+    "publishedAt": "2020-12-02T05:28:34Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hindustan Times"
+    },
+    "author": "Yashwant Raj",
+    "title": "Donald Trump’s H-1B visa rule that hurt Indians scrapped by US judge - Hindustan Times",
+    "description": "US district judge Jeffrey S. White of the Northern District of California ruled that the changes were introduced in a hurry and did not abide by the usual transparency obligations",
+    "url": "https://www.hindustantimes.com/world-news/us-judge-strikes-down-donald-trump-s-rules-narrowing-h-1b-eligibility/story-BZTyzup99fIHx1RGx5556K.html",
+    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/12/02/Pictures/president-donald-trump-returns-from-camp-david_9d15c10c-345e-11eb-97d3-e380ad967e0c.jpg",
+    "publishedAt": "2020-12-02T05:25:26Z",
+    "content": "A US judge on Tuesday threw out two rules proposed by the Trump administration to narrow eligibility for H-1B visa aspirants and raise their salaries in an effort to make it tougher for companies, mo… [+3524 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Indian Express"
+    },
+    "author": "Reuters",
+    "title": "Massive Puerto Rico telescope featured in James Bond movie collapses - The Indian Express",
+    "description": "The telescope - which received radio waves from space - had been used by scientists around the world to hunt for possible signatures of extraterrestrial life, study distant planets and find potentially hazardous asteroids",
+    "url": "https://indianexpress.com/article/technology/science/puerto-rico-telescope-collapses-arecibo-observatory-james-bond-movie-7076405/",
+    "urlToImage": "https://images.indianexpress.com/2020/12/arecibo-observatory-ap.jpg",
+    "publishedAt": "2020-12-02T05:21:49Z",
+    "content": "By: Reuters | Updated: December 2, 2020 11:21:49 am This photo provided by Aeromed shows the collapsed Radio Telescope in Arecibo, Puerto Rico, Tuesday, Dec. 1, 2020. The already damaged radio tel… [+2818 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NDTV News"
+    },
+    "author": null,
+    "title": "Inside Kareena Kapoor, Saif Ali Khan And Taimur's - NDTV",
+    "description": "Keeping up with the Pataudis in Dharamshala: What's keeping Saif, Kareena and Taimur busy",
+    "url": "https://www.ndtv.com/entertainment/inside-kareena-kapoor-saif-ali-khan-and-taimurs-exclusive-culinary-session-2332962",
+    "urlToImage": "https://c.ndtvimg.com/2020-12/qqu3g9q_kareena-kapoor_625x300_02_December_20.jpg",
+    "publishedAt": "2020-12-02T05:15:30Z",
+    "content": "Kareena with Saif Ali Khan and Taimur. (courtesy therealkareenakapoor) Highlights <ul><li>Kareena flew to Himachal Pradesh before Diwali </li><li> Saif Ali Khan is shooting for 'Bhoot Police' the… [+1995 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Carandbike.com"
+    },
+    "author": "Seshan Vijayraghvan",
+    "title": "Nissan Magnite Subcompact SUV Launched In India; Prices Start At Rs. 4.99 Lakh - CarandBike",
+    "description": "Nissan offers the new Magnite in four key variants - XE, XL, XV and XV Premium, which are further classified into 20 different grades. Customers opting for the XV or XV Premium trims will also get the optional 'Tech Pack' that gets add-on features.",
+    "url": "https://www.carandbike.com/news/nissan-magnite-subcompact-suv-launched-in-india-prices-start-at-rs-4-99-lakh-2332949",
+    "urlToImage": "https://c.ndtvimg.com/2020-11/qqkoi7og_nissan-magnite_625x300_20_November_20.jpg",
+    "publishedAt": "2020-12-02T05:14:49Z",
+    "content": "The long-anticipated Nissan Magnite has finally gone on sale in India, and the new subcompact SUV is priced at ₹ 4.99 lakh to ₹ 9.35 lakh (ex-showroom, Delhi). These are introductory prices and are v… [+4035 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hindustan Times"
+    },
+    "author": "hindustantimes.com | Edited by Prashasti Singh",
+    "title": "Delhi-Noida border closed due to farmers’ protest - Hindustan Times",
+    "description": "The Delhi Traffic Police has advised commuters travelling to Delhi to avoid using the Chilla route and instead take the DND or Kalindi Kunj route.",
+    "url": "https://www.hindustantimes.com/india-news/delhi-noida-border-closed-due-to-farmers-protest/story-FFWH8lgj0fYR2yWfGoPOTP.html",
+    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/12/02/Pictures/_c39afe7e-3458-11eb-a095-f4dd1fe9b7fb.png",
+    "publishedAt": "2020-12-02T04:50:06Z",
+    "content": "Farmers protesting against Centre’s farm laws continued their sit-in at the Noida-Delhi border for the second day on Wednesday, leading to closure of a key route that connects Uttar Pradesh with the … [+2014 chars]"
     }
-
-]
+    ]
+}

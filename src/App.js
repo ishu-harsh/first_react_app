@@ -1,7 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
 import React from 'react'
-
 // import Header 
 import Header from './component/Header' 
 
@@ -15,12 +13,15 @@ class App extends React.Component {
   constructor(){
     super()
     this.state = {
-      news : newsData
-    }
+      news : newsData   
+     }
   }
 
+  
+
+
   render(){
-    console.log(this.state.news)
+      console.log(this.state.news)
     return(
       <React.Fragment>
         <Header/>
