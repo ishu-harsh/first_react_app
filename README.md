@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# News Feed React-App 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+> <Subtitle>
+
+> Simple News FeedApp 
+
+
+
+---
+
+
+
+
+
 
 ## Available Scripts
 
