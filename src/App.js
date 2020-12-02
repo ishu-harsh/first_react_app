@@ -24,7 +24,7 @@ class App extends React.Component {
       console.log(this.state.news)
     return(
       <React.Fragment>
-        <Header/>
+        <Header/> 
         <Newsdisplay newsData={this.state.news}/>
       </React.Fragment>
     )

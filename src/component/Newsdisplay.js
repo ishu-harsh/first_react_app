@@ -2,7 +2,7 @@ import React from 'react'
 
 const Newsdisplay = (props)=>{
         
-    const renderList = props.newsData.articles.map(data =>{
+    const renderNews = props.newsData.articles.map(data =>{
         return (
             <div key={data.publishedAt} className="col-sm-3">
                  <div class="card" style={{ width: '18rem'}}>
@@ -21,8 +21,7 @@ const Newsdisplay = (props)=>{
     return(
         <React.Fragment>
             <div className="row" > 
-            {renderList}
-
+            {renderNews}
             </div>
         </React.Fragment>
     )
